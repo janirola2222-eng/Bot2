@@ -7,7 +7,7 @@ from datetime import datetime
 
 # ========== КОНФИГУРАЦИЯ ==========
 BOT_TOKEN = "8950813262:AAFnK3fBo3dH2VLsJkT6gCWBGPUM3G_3TyA"
-ADMIN_IDS = [8093996396]
+ADMIN_IDS = [5934814012]
 MANAGER_USERNAME = "@lnea_dsgn"
 PAYMENT_DETAILS = "2204321185303872 Озон Банк"
 PORTFOLIO_LINK = "https://t.me/enproject1"
@@ -941,7 +941,7 @@ def admin_command(message):
 if __name__ == "__main__":
     print("=" * 50)
     print("✅ БОТ ЗАПУЩЕН!")
-    print(f"👑 Главный админ: 8093996396")
+    print(f"👑 Главный админ: 5934814012")
     print(f"📁 Портфолио: {PORTFOLIO_LINK}")
     print("=" * 50)
 
